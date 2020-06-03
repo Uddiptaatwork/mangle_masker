@@ -1,4 +1,4 @@
-##########%%%%%%%%%%%% mask_maker %%%%%%%%%%%%############
+########mask_maker
 
 Read and identify a Mangle mask file.
 Input coordinates (RA, dec) and mangle ".ply" file.
